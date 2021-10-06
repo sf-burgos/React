@@ -1,15 +1,40 @@
-# Web sockets in React
+# React 🚅
 
-### Previous concepts
+### _🧑‍💻Created by the software Developer -> [Brayan Steven Burgos Delgado](https://www.linkedin.com/in/brayan-steven-burgos-delgado-21a9a0178/)_
 
-    - full-duplex (or two-way)
-    - TCP
-    - Client and Server
-    - Using Ports 80 and 443
+## Abstract ✒️ 
 
-### Why you should  use Web sockets?
+_FRONTEND_ Learning about React 
 
-    - Are designed to supersede the existing bidirectional communication technologies
-    - Full duplex in REAL TIME 
-    - Are similar to SSe but use taking messages back from the client to the server
+## React Intro 🔑
+
+If you wanna start to learn [Introduction to react](https://es.reactjs.org/tutorial/tutorial.html) 🔝
+
+```
+npx create-react-app my-app
+
+```
+
+To start the project use 
+
+```
+npm start
+
+```
+ And go to the sources in a navigator 🆗 
+ 
+ ```
+http://localhost:3000
+```
+ 
+
+
+
+
+
+
+
+
+
+
 
