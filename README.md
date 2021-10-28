@@ -25,13 +25,33 @@ To start the project use
 
 ```
 npm start
+```
+
+To clean the project use 
 
 ```
+npm clean
+```
+
+To Clean install 
+
+```
+npm clean install
+```
+
+To start the project use 
+
+```
+npm start
+
+```
+
  And go to the sources in a navigator 🆗 
  
  ```
 http://localhost:3000
 ```
+ 
 
 ## Resources
 
